@@ -1,5 +1,5 @@
 === WP API Menus ===
-Contributors: nekojira
+Contributors: nekojira, Human Made Limited
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=P64V9NTEYFKDL
 Tags: wp-api, wp-rest-api, json-rest-api, json, menus, rest, api, menu-routes
 Requires at least: 3.6.0
@@ -93,7 +93,7 @@ Nothing to show really, this plugin has no settings or frontend, it just extends
 = 1.1.0 =
 * Enhancement: Routes for menus in theme locations now include complete tree with item order and nested children
 * Tweak: `description` attribute for individual items is now included in results
-* Fix: Fixed typo confusing `parent` with `collection` in meta   
+* Fix: Fixed typo confusing `parent` with `collection` in meta
 
 = 1.0.0 =
 * First public release

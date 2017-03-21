@@ -1,3 +1,7 @@
+#### 2.0.0 (03 Oct 2016)
+ * Fix paths of links.
+ * Remove V1 handling.
+
 #### 1.3.1 (03 Oct 2016)
  * Tweak: The `object_slug` property is now available to get the slug for relative URLs - props @Fahrradflucht
 
